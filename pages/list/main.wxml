@@ -1,0 +1,2 @@
+<import src="../../components/faceList$18235553.wxml" />
+<template is="faceList$18235553" data="{{ ...$root['0'], $root }}"/>

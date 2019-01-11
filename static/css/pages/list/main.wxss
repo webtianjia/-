@@ -1,0 +1,58 @@
+.wx-header.v-29e8c3c6 {
+  width: 100%;
+  position: fixed;
+  z-index: 9999;
+  height: 176rpx;
+}
+.wx-header .title.v-29e8c3c6 {
+  text-align: center;
+}
+.wx-header .icon.v-29e8c3c6 {
+  height: 88rpx;
+  width: 88rpx;
+  font-size: 44rpx;
+}
+.container.v-3a262518 {
+  width: 100%;
+  min-height: 100vh;
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+.list.v-3a262518 {
+  padding: 20rpx;
+  padding-top: 176rpx;
+  column-count: 2;
+  column-gap: 20rpx;
+}
+.card.v-3a262518 {
+  height: 100%;
+  overflow: auto;
+  border-radius: 6rpx;
+  padding: 2%;
+  margin-bottom: 20rpx;
+  box-sizing: border-box;
+  background-image: linear-gradient(to right, #74ebd5 0%, #9face6 100%);
+  position: relative;
+}
+.card .user-img.v-3a262518 {
+  width: 100%;
+  box-shadow: 0 0 10rpx #d00;
+}
+.card .text.v-3a262518 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  font-size: 28rpx;
+  padding: 0 10rpx;
+}
+.card .beauty.v-3a262518 {
+  position: absolute;
+  right: 10rpx;
+  padding: 8rpx;
+  border-radius: 6rpx;
+  box-shadow: 0 0 10rpx #fff;
+  top: 10rpx;
+  color: #07f;
+  font-size: 28rpx;
+  background-image: linear-gradient(to top, #fad0c4 0%, #fad0c4 1%, #ffd1ff 100%);
+}
